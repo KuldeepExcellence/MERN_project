@@ -1,0 +1,21 @@
+.containerLogin{
+    width: 100%;
+    display: block;
+}
+.flex-container{
+    width: 100%;
+    display:flex;
+    
+}
+.box-conatiner1{
+    flex: 1;
+    margin:0px 20px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: rgb(78, 75, 75);
+    color:rgb(153, 148, 148);
+    cursor:pointer;
+}
+.box-item{
+
+}

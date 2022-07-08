@@ -1,0 +1,22 @@
+.widget{
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+}
+.widgetItem{
+    flex:1;
+    margin:0px 20px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: red;
+    color:white;
+    cursor:pointer;
+}
+.widgetTitle{
+    font-size: 15px;
+
+}
+.data{
+    font-size: 30px;
+    font-weight: bold;
+}

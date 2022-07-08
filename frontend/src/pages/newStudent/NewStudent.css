@@ -1,0 +1,39 @@
+.newstudent{
+    
+    flex: 4 ;
+}
+.newUserForm{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px 20px;
+}
+.newUserItem{
+    width: 100%;
+   margin : 15px 0;
+    margin-right: 20px;
+}
+.newUserItem>label{
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 19px;
+    
+    color:gray;
+    margin-right: 15px;
+    width:15%;
+    font-weight: bold;
+    text-align: right;
+    
+}
+.newUserGender{
+    display: inline;
+
+}
+
+.newUserItem>input{
+    height:15px;
+    padding: 10px;
+    width:80%;
+    border:1px solid gray;
+    border-radius: 10px;
+    
+}
